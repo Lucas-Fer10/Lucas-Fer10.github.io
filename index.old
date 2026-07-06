@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Inicial</title>
+</head>
+<body>
+    <p>Olá</p>
+    <p>Seja Bem vindo ao meu site</p>
+    <p><img src="lucas.png"
+        width="300" height="300"></p>
+    <p><a href="curriculo.html">Curriculo</a></p>
+    <p>Não deixe de acessar mu curriculo!</p>
+</body>
+</html>
