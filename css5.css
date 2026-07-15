@@ -1,2 +1,13 @@
 p {color: blue; }
 body { background-color: gray;}
+b {color: red;}
+i {color: purple;}
+u {color: green;}
+ul li {color: orange;}
+ol li {color: pink;}
+
+/*Comentario para classes*/
+.primeiro_item {color: aqua;}
+
+/*Comentario para Itens*/
+#ultimo_item {color: brown;}

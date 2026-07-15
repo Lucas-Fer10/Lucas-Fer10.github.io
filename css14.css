@@ -1,0 +1,42 @@
+#linha01{
+    background-color: blue;
+    width: 100%;
+    height: 30%;
+}
+#linha02{
+    background-color: grey;
+    width: 100%;
+    height: 30%;
+    color: white;
+}
+#linha03{
+    background-color: magenta;
+    width: 100%;
+    height: 30%;
+}
+#geral{
+    /*position: absolute;*/
+    background-color: cyan;
+    width: 150px;
+}
+#geral #coluna01{
+    /*position: absolute;*/
+    background-color: purple;
+    width: 100px;
+    height: 200px;
+    color: white;
+}
+#geral #coluna02{
+    /*position: absolute;*/
+    background-color: pink;
+    width: 35%;
+    height: 10%;
+
+}
+#geral #coluna03{
+    /*position: absolute;*/
+    background-color: orange;
+    width: 30%;
+    height: 10%;
+    /*float: left;*/
+}
